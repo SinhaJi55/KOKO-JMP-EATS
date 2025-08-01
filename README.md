@@ -1,7 +1,10 @@
-https://private-user-images.githubusercontent.com/220455386/473558100-790de881-f854-401e-8602-2a31219fb9cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwNzA1OTAsIm5iZiI6MTc1NDA3MDI5MCwicGF0aCI6Ii8yMjA0NTUzODYvNDczNTU4MTAwLTc5MGRlODgxLWY4NTQtNDAxZS04NjAyLTJhMzEyMTlmYjljZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwMVQxNzQ0NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNmY1YmJmMjEwOWNmNDZlZjE1OGQ0ZTU5MGU3ODhhOTRhOWU1ZjBhZmM0YTg1MmQ1YjZhYjE0MWJkNThhYTQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.482F2FuWCCJmn1BIVx22r9gPvY1LQ4oJVQlWUXtBXhU
+
+![koko1](https://github.com/user-attachments/assets/b22f09bd-b0a4-49f4-a551-bbfeb04bcdbe)
+![kok2](https://github.com/user-attachments/assets/28b0f277-4186-4a2e-9571-efb8aff4c583)
+![koko3](https://github.com/user-attachments/assets/a628fb4b-db46-4183-8061-8cc8349fce3b)
 
 
-![backg](https://github.com/user-attachments/assets/4494183c-606a-4492-a16c-edb4a7153eb1)# KOKO-JMP-EATS
+53eb1)# KOKO-JMP-EATS
 Frontend Projects
  Vegetarian Food App
 A responsive and user-friendly React + Tailwind CSS application showcasing a variety of delicious vegetarian dishes, drinks, and sweets. Built for browsing, filtering, and exploring vegetarian food items with clean UI and modern design.
@@ -25,3 +28,4 @@ Frontend: React.js (Vite)
 Styling: Tailwind CSS v4
 
 Image Management: Local Assets
+![backg](https://github.com/user-attachments/assets/4494183c-606a-4492-a16c-edb4a71
